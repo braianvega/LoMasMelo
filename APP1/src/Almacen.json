@@ -1,0 +1,30 @@
+{
+    "words": [
+      {
+        "id": 1,
+        "nombre": "Jesus",
+        "edad": 33
+      },
+      {
+        "id": 2,
+        "nombre": "Andres",
+        "edad": 20
+      },
+      {
+        "id": 3,
+        "nombre": "Martin",
+        "edad": 13
+      },
+      {
+        "id": 4,
+        "nombre": "Jhon",
+        "edad": 12
+      }
+      ,
+      {
+        "id": 5,
+        "nombre": "AndresJuan",
+        "edad": 12
+      }
+    ]
+  }
